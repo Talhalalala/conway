@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(80, 50, 150);
+  color: #5fffff;
+}
+
+h1{
+  font-size: 60px;
+  font-family: monospace, Arial, Gill Sans;
+}
+
+p{
+  color:aquamarine;
+}
+
+#first-para{
+  color: red;
+  font-size: 37px;
+  font-weight: bold;
+  letter-spacing: 8px;
+}
+
+#second-para{
+  color: fuchsia;
+  font-size: 30px;
+}
+
+.red-font{
+  color: red;
+}
